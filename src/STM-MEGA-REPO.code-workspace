@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../work/tsarka/workspace/khs/STM-MEGA-REPO"
+		},
+		{
+			"name": "i2c_test",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gpio.h": "c",
+			"timer.h": "c",
+			"rcc.h": "c",
+			"i2c.h": "c"
+		}
+	}
+}
